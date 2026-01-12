@@ -56,7 +56,7 @@ To get a local copy of this project up and running, follow these steps:
 
    ```
    git clone https://github.com/yousefabohend/secureshare_backend
-   cd file-share-rust-backend
+   cd secureshare_backend
    ```
 2. Create a .env file in the root of the project with the following variables:
 
